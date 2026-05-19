@@ -97,7 +97,7 @@ Some of your best projects: Describe some projects you're proud of. You'll also 
 - I've definitely further developed my skills in time management and efficiently analyzing data while working on this project within the 3 day time limit! 
 
 #### Currently Working On:
-- SQL Database: CS 150A Final Project:
+- SQL Database: CS 150A Final Project
   - Developing a SQL database with multiple tables and data queries to extract useful information about the accessibility and quality of health and wellness resources in San Francisco.
 
 ### Achievements
