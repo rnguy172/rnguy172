@@ -4,8 +4,6 @@
 ## Recent Graduate Looking To Improve Lives With Data!
 - Pronouns: Any
 - Preferred Contact: Email
-- Currently Learning: SQL and Python 
-- Currently Working On: Data Analytics Fundamentals Certificate
 - Fun Fact: I love alternative music (current favorite bands: Creeper, Thrice, Ngọt)! 
 
 ### Introduction 
@@ -15,7 +13,7 @@ An introduction: Write a brief introduction of yourself and your professional ba
 
 Hello! My name is Roxana Nguyen! I am a curious and detail-oriented lifelong learner, who recently received a B.S. in Statistics at the University of California, Riverside. Currently, I am working towards becoming an Epidemiologist/Biostatistician, so that I can nurture the health and wellbeing of all Californians through developing and implementing equitable, data-driven public health research, policies, and services. I am particularly passionate about solving public health issues prominent in marginalized communities, especially the Southeast Asian community.
 
-While attending UC Riverside, I was actively involved in the university's mini public health department, The Well. I dedicated 25 hours of my time (becoming the 3rd most involved PHP volunteer of the academic year) to organize and implement public health initiatives and events, effectively promoting public health information, resources, and services relevant to the diverse campus community. The following academic year, I was promoted to a lead position, the Data and Metrics Committee Lead for the Public Health Peers (PHP) Committee. Public Health Peers (PHP) Data and Metrics Lead at The Well, I developed, implemented, and maintained efficient data management systems in Microsoft Excel and Google Sheets to track, analyze, and report program data, detailing the performances of PHP's programs and recommending data-informed improvements for said programs.
+While attending UC Riverside, I was actively involved in the university's mini public health department, The Well. I dedicated a total of 94 hours of my time (becoming the 1st most involved PHP volunteer of the academic year) to organize and implement public health initiatives and events, effectively promoting public health information, resources, and services relevant to the diverse campus community. The following academic year, I was promoted to a lead position, the Data and Metrics Committee Lead for the Public Health Peers (PHP) Committee. Public Health Peers (PHP) Data and Metrics Lead at The Well, I developed, implemented, and maintained efficient data management systems in Microsoft Excel and Google Sheets to track, analyze, and report program data, detailing the performances of PHP's programs and recommending data-informed improvements for said programs.
 
 I am eager to utilize my confident knowledge, skills, and experiences in data entry, data analysis, data reporting, data management, and statistical theory to equitably enrich the lives of vulnerable populations in the nonprofit and/or health and wellness field! 
 
@@ -36,11 +34,12 @@ Software:
 - Most Proficient: Google Sheets/Microsoft Excel
 - Qualtrics
 - Google Forms
+- Tableau/Power BI 
 - Google Docs/Microsoft Word
 - Canva
 - Google Slides/Microsoft PowerPoint
 - Mailchimp
-- Microsoft Teams,
+- Microsoft Teams
 - Microsoft Outlook
 
 Hobbies:
@@ -52,14 +51,14 @@ Hobbies:
 Professional experience: Describe where you've worked before and what sort of professional skills you've built. These can even be non-technical skills, such as communication and empathy.
 -->
 #### Polly Ann Ice Cream
-*Ice Cream Scooper (April 2022 - June 2023 and August 2025 - Present)* 
+*Ice Cream Scooper (April 2022 - June 2023 and August 2025 - June 2026)* 
 
-- Independently opens and sets up the store on time. Contributes to a positive work environment with diverse staff to manage, organize, and complete large amounts of orders and tasks. Communicates with diverse customers to take their orders, answer their inquiries, prepare requested desserts, and process their payments. Maintains a safe and clean work environment. Performs accurate data entry, hygiene, and integrity checks for the store’s menu board and inventory database of available ice cream.
+- Independently opened and set up the store on time. Contributed to a positive work environment with diverse staff to manage, organize, and complete large amounts of orders and tasks. Communicated with diverse customers to take their orders, answer their inquiries, prepare requested desserts, and process their payments. Maintained a safe and clean work environment. Performed accurate data entry, hygiene, and integrity checks for the store’s menu board and inventory database of available ice cream.
 
 **Professional Skills**: Food Handling Safety, Customer Services, Interpersonal Communication, Point of Sale (POS) Systems, Inventory Management
 
 #### The Well at UC Riverside 
-*Public Health Peers (PHP) Data and Metrics Committee Lead (September 2024 - June 2025)*
+*Public Health Peers (PHP) Data and Metrics Committee Lead (September 2024 - August 2025)*
 
 - Created and maintained Qualtrics and Google Forms surveys for the data collection of PHP program performance
 - Created and maintained confidential databases for each PHP program, and migrated, delivered, and integrated confidential PHP program performance data imports and uploads into each respective PHP program database from multiple confidential department databases, surveys, forms, and data reports, utilizing CSV imports and structured manual entry.
@@ -75,7 +74,7 @@ Professional experience: Describe where you've worked before and what sort of pr
 **Professional Skills**: Google Sheets/Microsoft Excel, Qualtrics, Google Forms, Canva, Google Docs/Microsoft Word, Microsoft Outlook, Microsoft Teams, Mailchimp, Health Education 
 
 #### The Well at UC Riverside 
-*Public Health Peers (PHP) Data and Metrics Committee Volunteer (January 2024 - June 2024)*
+*Public Health Peers (PHP) Data and Metrics Committee Volunteer (September 2023 - September 2024)*
 
 - Positively worked with The Well and department partners to develop, organize, implement, and support public health initiatives that effectively communicated to a diverse campus community available health and wellness information, resources, and services. Created event decorations, organized giveaway incentives, attended event preparation meetings, set up and cleaned up event equipments, event decorations, and table items, and supported event operations. Volunteered for more than 25 hours (3rd most involved PHP volunteer).
 - Performed accurate manual data collection, migration, and entry of the inventory and distribution of PHP health supplies and the demographics of PHP event attendees into The Well’s data dashboard. Regularly, performed data reconciliation, data syncing, data hygiene, and data integrity checks for PHP event and inventory data to identify and resolve, in collaboration with The Well staff, data formatting, syncing, and discrepancies, ensuring accurate flow, syncing, and alignment of PHP data across department databases.
@@ -95,10 +94,6 @@ Some of your best projects: Describe some projects you're proud of. You'll also 
 - I enjoyed modelling the data and working with the R Markdown file in this project! 
 4. American Statistical Association DataFest at UCLA (May 2024)
 - I've definitely further developed my skills in time management and efficiently analyzing data while working on this project within the 3 day time limit! 
-
-#### Currently Working On:
-- SQL Database: CS 150A Final Project
-  - Developing a SQL database with multiple tables and data queries to extract useful information about the accessibility and quality of health and wellness resources in San Francisco.
 
 ### Achievements
 <!--
