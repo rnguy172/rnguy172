@@ -1,7 +1,7 @@
 <!--
  You can write more in your profile README to showcase your skills and interests.
 -->
-## Recent Graduate Looking To Improve Lives With Data!
+## Detail-oriented, Organized Problem Solver Looking To Improve Lives With Data!
 - Pronouns: Any
 - Preferred Contact: Email
 - Fun Fact: I love alternative music (current favorite bands: Creeper, Thrice, Ngọt)! 
