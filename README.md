@@ -57,7 +57,7 @@ Professional experience: Describe where you've worked before and what sort of pr
 **Professional Skills**: Google Sheets/Microsoft Excel, Qualtrics, Google Forms, Canva, Google Docs/Microsoft Word, Microsoft Outlook, Microsoft Teams, Mailchimp, Health Education 
 
 #### The Well at UC Riverside 
-*Public Health Peers (PHP) Data and Metrics Committee Volunteer (September 2023 - September 2024)*
+*Public Health Peers (PHP) Data and Metrics Committee Member (September 2023 - September 2024)*
 
 **Professional Skills**: Google Sheets/Microsoft Excel, Health Education, Presentation, Teamwork 
 
