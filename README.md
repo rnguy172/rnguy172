@@ -50,35 +50,13 @@ Hobbies:
 <!--
 Professional experience: Describe where you've worked before and what sort of professional skills you've built. These can even be non-technical skills, such as communication and empathy.
 -->
-#### Polly Ann Ice Cream
-*Ice Cream Scooper (April 2022 - June 2023 and August 2025 - June 2026)* 
-
-- Independently opened and set up the store on time. Contributed to a positive work environment with diverse staff to manage, organize, and complete large amounts of orders and tasks. Communicated with diverse customers to take their orders, answer their inquiries, prepare requested desserts, and process their payments. Maintained a safe and clean work environment. Performed accurate data entry, hygiene, and integrity checks for the store’s menu board and inventory database of available ice cream.
-
-**Professional Skills**: Food Handling Safety, Customer Services, Interpersonal Communication, Point of Sale (POS) Systems, Inventory Management
 
 #### The Well at UC Riverside 
 *Public Health Peers (PHP) Data and Metrics Committee Lead (September 2024 - August 2025)*
-
-- Created and maintained Qualtrics and Google Forms surveys for the data collection of PHP program performance
-- Created and maintained confidential databases for each PHP program, and migrated, delivered, and integrated confidential PHP program performance data imports and uploads into each respective PHP program database from multiple confidential department databases, surveys, forms, and data reports, utilizing CSV imports and structured manual entry.
-- Regularly, identified data formatting inconsistencies, syncing discrepancies, incomplete data, incorrect data, and duplicate data, recollected data or collaborated with the appropriate staff to resolve discrepancies, and corrected data entry and/or the methods for data collection to perform data hygiene and integrity checks.
-- Produced graphs and data dashboards to analyze and interpret the data, identifying trends, patterns, and areas of improvement in PHP programs, policies, and procedures.
-- Timely created, built, and maintained custom, concise, and actionable data reports in Canva every academic quarter to support The Well in developing and improving PHP’s health supplies program, volunteer program, volunteer recruitment, workshops, presentations, and campus-wide events.
-- Performed accurate manual database data entry for the inventory and distribution of PHP health supplies, the demographics of PHP event attendees, and the volunteer hours earned by the PHP volunteers.
--  Reviewed, evaluated, and integrated databases and methods of data entry, analysis, and reporting in collaboration with The Well’s diverse and inclusive staff to support continuous improvement efforts for simplifying and adapting to evolving PHP data workflows while maintaining compliance with The Well’s policies and regulations.
--  Worked with PHP leads every academic quarter to interview volunteer applicants, select qualified applicants, and coordinate and facilitate hybrid volunteer trainings. Provided onboarding and basic training support for staff and volunteers on PHP data entry standards, reporting tools, and workflows. Developed, maintained, and updated detailed process documentations, instructing volunteers on how to successfully complete tasks. 
--  Led a team of volunteers, assigning them weekly enriching opportunities to assist with PHP data management. Developed and sent weekly Mailchimp newsletters to PHP volunteers, updating them on upcoming deadlines, volunteer opportunities and events, and valuable health and wellbeing resources. 
--  Positively worked with The Well and department partners to develop, organize, implement, and support initiatives that effectively communicated to a diverse campus community available health and wellness information, resources, and services.
-
 **Professional Skills**: Google Sheets/Microsoft Excel, Qualtrics, Google Forms, Canva, Google Docs/Microsoft Word, Microsoft Outlook, Microsoft Teams, Mailchimp, Health Education 
 
 #### The Well at UC Riverside 
 *Public Health Peers (PHP) Data and Metrics Committee Volunteer (September 2023 - September 2024)*
-
-- Positively worked with The Well and department partners to develop, organize, implement, and support public health initiatives that effectively communicated to a diverse campus community available health and wellness information, resources, and services. Created event decorations, organized giveaway incentives, attended event preparation meetings, set up and cleaned up event equipments, event decorations, and table items, and supported event operations. Volunteered for more than 25 hours (3rd most involved PHP volunteer).
-- Performed accurate manual data collection, migration, and entry of the inventory and distribution of PHP health supplies and the demographics of PHP event attendees into The Well’s data dashboard. Regularly, performed data reconciliation, data syncing, data hygiene, and data integrity checks for PHP event and inventory data to identify and resolve, in collaboration with The Well staff, data formatting, syncing, and discrepancies, ensuring accurate flow, syncing, and alignment of PHP data across department databases.
-
 **Professional Skills**: Google Sheets/Microsoft Excel, Health Education, Presentation, Teamwork 
 
 ### Projects
