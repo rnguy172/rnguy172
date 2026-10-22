@@ -34,13 +34,14 @@ Software:
 - Most Proficient: Google Sheets/Microsoft Excel
 - Qualtrics
 - Google Forms
-- Tableau/Power BI 
 - Google Docs/Microsoft Word
 - Canva
 - Google Slides/Microsoft PowerPoint
 - Mailchimp
 - Microsoft Teams
 - Microsoft Outlook
+- Tableau/Power BI
+- Salesforce
 
 Hobbies:
 - Most Proficient: Final Cut Pro
